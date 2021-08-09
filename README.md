@@ -1,7 +1,7 @@
 <h1>Snake Game</h1>
 
 A cool web-app for fun to enjoy the snake game which was enoyed and played on the phone like NOKIA 1100📱. To introduce this old but joyful game to today's kids, I have tried to do my best to make this game with some colorful exciting elements on the bigger screen.    
-You can play this game by clicking:
+You can play this game by clicking:https://snakegamesg.netlify.app/
 
 
 Please feel free to suggest some advice for improving and enhancing the quality of this game.
