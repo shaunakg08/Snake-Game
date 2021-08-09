@@ -9,7 +9,7 @@ Please feel free to suggest some advice for improving and enhancing the quality 
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/shaunak0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaunak0806" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shaunak guchhait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaunak guchhait" height="30" width="40" /></a><a href="https://instagram.com/shaunak.08s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaunak.08s" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16436769/shaunak-guchhait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaunak guchhait" height="30" width="40" /></a><a href="https://instagram.com/shaunak.08s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaunak.08s" height="30" width="40" /></a>
 <a href="https://github.com/Shaunak0806" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="shaunak0806" height="30" width="30" /></a>
 </p>
 
