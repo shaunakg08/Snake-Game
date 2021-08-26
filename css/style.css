@@ -1,73 +1,114 @@
-    @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
-    * {
-        padding: 0;
-        margin: 0;
-    }
-    
-    .body {
-        background: url("../bg.jpg");
-        min-height: 100vh;
-        background-size: 100vw 150vh;
-        background-repeat: no-repeat;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        overflow-y: hidden;
-    }
-    
-    #scoreBox {
-        color: aliceblue;
-        position: absolute;
-        top: 40px;
-        left: 100px;
-        font-size: 39px;
-        font-weight: bold;
-        font-family: 'New Tegomin', serif;
-    }
-    
-    #highscoreBox {
-        color: aliceblue;
-        position: absolute;
-        top: 80px;
-        left: 100px;
-        font-size: 39px;
-        font-weight: bold;
-        font-family: 'New Tegomin', serif;
-    }
-    
-    #board {
-        background: linear-gradient(rgb(9, 201, 9), rgb(9, 201, 9));
-        width: 90vmin;
-        height: 92vmin;
-        border: 3px solid black;
-        display: grid;
-        grid-template-rows: repeat(18, 1fr);
-        grid-template-columns: repeat(18, 1fr);
-        position: absolute;
-    }
-    
-    .head {
-        background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
-        border: 2px solid rgb(34, 4, 34);
-        transform: scale(1.02);
-        border-radius: 7px;
-    }
-    
-    .snake {
-        background-color: purple;
-        border: .25vmin solid white;
-        border-radius: 12px;
-    }
-    
-    .food {
-        background: linear-gradient(red, purple);
-        border: .25vmin solid black;
-        border-radius: 8px;
-    }
-    
-    @media (max-width: 360px) {
-        #highscoreBox,
-        #scoreBox {
-            left: 20px;
-        }
-    }
+ @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+ * {
+     padding: 0;
+     margin: 0;
+ }
+ 
+ .body {
+     background-color: #4158D0;
+     background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+     min-height: 96vh;
+     background-size: 100vw 150vh;
+     background-repeat: no-repeat;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     overflow-y: hidden;
+ }
+ 
+ #scoreBox {
+     color: aliceblue;
+     position: absolute;
+     top: 40px;
+     left: 100px;
+     font-size: 39px;
+     font-weight: bold;
+     font-family: 'New Tegomin', serif;
+ }
+ 
+ #highscoreBox {
+     color: aliceblue;
+     position: absolute;
+     top: 80px;
+     left: 100px;
+     font-size: 39px;
+     font-weight: bold;
+     font-family: 'New Tegomin', serif;
+ }
+ 
+ #board {
+     background: linear-gradient(rgb(9, 201, 9), rgb(9, 201, 9));
+     width: 90vmin;
+     height: 92vmin;
+     border: 3px solid black;
+     display: grid;
+     grid-template-rows: repeat(18, 1fr);
+     grid-template-columns: repeat(18, 1fr);
+     position: absolute;
+ }
+ 
+ .head {
+     background: linear-gradient(rgb(240, 124, 124), rgb(228, 228, 129));
+     border: 2px solid rgb(34, 4, 34);
+     transform: scale(1.02);
+     border-radius: 7px;
+ }
+ 
+ .snake {
+     background-color: purple;
+     border: .25vmin solid white;
+     border-radius: 12px;
+ }
+ 
+ .food {
+     background: linear-gradient(red, purple);
+     border: .25vmin solid black;
+     border-radius: 8px;
+ }
+ /* arrow buttons */
+ 
+ .btn {
+     background-color: green;
+     height: 60px;
+ }
+ 
+ button {
+     padding: 15px;
+     background-color: black;
+     color: whitesmoke;
+ }
+ 
+ .arrow {
+     border: solid rgb(255, 255, 255);
+     border-width: 0 4px 4px 0;
+     display: inline-block;
+     padding: 3px;
+ }
+ 
+ .right {
+     transform: rotate(-45deg);
+     -webkit-transform: rotate(-45deg);
+ }
+ 
+ .left {
+     transform: rotate(135deg);
+     -webkit-transform: rotate(135deg);
+ }
+ 
+ .up {
+     transform: rotate(-135deg);
+     -webkit-transform: rotate(-135deg);
+ }
+ 
+ .down {
+     transform: rotate(45deg);
+     -webkit-transform: rotate(45deg);
+ }
+ /*media */
+ 
+ @media (max-width: 360px) {
+     #highscoreBox,
+     #scoreBox {
+         left: 20px;
+     }
+ }
