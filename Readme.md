@@ -1,19 +1,19 @@
-<h1>Snake Game</h1>
+# Snake Game
 
-A cool web-app for fun to enjoy the snake game which was enoyed and played on the phone like NOKIA 1100📱. To introduce this old but joyful game to today's kids, I have tried to do my best to make this game with some colorful exciting elements on the bigger screen.    
-You can play this game by clicking:https://snakegamesg.netlify.app/
+A cool web-app for fun to enjoy the snake game which was enoyed and played on the older phones like NOKIA 1100📱. To introduce this old but joyful game to today's kids, I have tried to do my best to make this game with some colorful exciting elements on the bigger screen.    
+You can play this game by clicking here : https://snakegamesg.netlify.app/
 
 
-Please feel free to suggest some advice for improving and enhancing the quality of this game.
+## Contributing:
 
-<h1></h1>
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/shaunak0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaunak0806" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16436769/shaunak-guchhait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaunak guchhait" height="30" width="40" /></a><a href="https://instagram.com/shaunak.08s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaunak.08s" height="30" width="40" /></a>
-<a href="https://github.com/Shaunak0806" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="shaunak0806" height="30" width="30" /></a>
-</p>
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
-<h1></h1>
+
+
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>
 </p>
